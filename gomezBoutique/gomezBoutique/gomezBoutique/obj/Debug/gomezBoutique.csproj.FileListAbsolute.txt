@@ -1,0 +1,211 @@
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\gomezBoutique.exe.config
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\gomezBoutique.exe
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\gomezBoutique.pdb
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\MySql.Data.dll
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\System.Memory.dll
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\System.Buffers.dll
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\GestionBD.pdb
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.csproj.AssemblyReference.cache
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.csproj.SuggestedBindingRedirects.cache
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.Properties.Resources.resources
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.csproj.GenerateResource.cache
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.csproj.CoreCompileInputs.cache
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.csproj.CopyComplete
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.exe
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.pdb
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmPreAccueil.resources
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmAccueil.resources
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmConnexion.resources
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\GestionBD.dll
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\GestionBD.dll.config
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmClients.resources
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmModifierClient.resources
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmFournisseur.resources
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmModifierFournisseur.resources
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmConnexionPerso.resources
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmAccueilPerso.resources
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmAPropos.resources
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmProduits.resources
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmInfos.resources
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmAjoutCompte.resources
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\Google.Protobuf.dll
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\MySql.Data.xml
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\Google.Protobuf.pdb
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\Google.Protobuf.xml
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\System.Memory.xml
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\System.Buffers.xml
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmCommandes.resources
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmConnexionPro.resources
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmAccueilPro.resources
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmComptePro.resources
+C:\Users\tiffany.gomez\Desktop\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmAjoutPro.resources
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\gomezBoutique.exe.config
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\gomezBoutique.exe
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\gomezBoutique.pdb
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\GestionBD.dll
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\MySql.Data.dll
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\Google.Protobuf.dll
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\BouncyCastle.Crypto.dll
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\System.Memory.dll
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\K4os.Compression.LZ4.dll
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\K4os.Hash.xxHash.dll
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\System.Numerics.Vectors.dll
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\System.Buffers.dll
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\GestionBD.pdb
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\GestionBD.dll.config
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\MySql.Data.xml
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\Google.Protobuf.pdb
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\Google.Protobuf.xml
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\BouncyCastle.Crypto.xml
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\System.Memory.xml
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\K4os.Compression.LZ4.xml
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\K4os.Hash.xxHash.xml
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\System.Numerics.Vectors.xml
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\System.Buffers.xml
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.csproj.AssemblyReference.cache
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.csproj.SuggestedBindingRedirects.cache
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmClients.resources
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmCommandes.resources
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmModifierFournisseur.resources
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmAccueil.resources
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmConnexion.resources
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmModifierClient.resources
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmFournisseur.resources
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmPreAccueil.resources
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmAPropos.resources
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmProduits.resources
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmInfos.resources
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmAccueilPerso.resources
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmAjoutCompte.resources
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmConnexionPerso.resources
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmAjoutPro.resources
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmComptePro.resources
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmAccueilPro.resources
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmConnexionPro.resources
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.Properties.Resources.resources
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.csproj.GenerateResource.cache
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.csproj.CoreCompileInputs.cache
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.csproj.CopyComplete
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.exe
+F:\BTS\Dev_ALBERT\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.pdb
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\gomezBoutique.exe.config
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\gomezBoutique.exe
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\gomezBoutique.pdb
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\GestionBD.dll
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\MySql.Data.dll
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\Google.Protobuf.dll
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\System.Memory.dll
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\System.Buffers.dll
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\GestionBD.pdb
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\GestionBD.dll.config
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\MySql.Data.xml
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\Google.Protobuf.pdb
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\Google.Protobuf.xml
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\System.Memory.xml
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\System.Buffers.xml
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.csproj.AssemblyReference.cache
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.csproj.SuggestedBindingRedirects.cache
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmClients.resources
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmCommandes.resources
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmModifierFournisseur.resources
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmAccueil.resources
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmConnexion.resources
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmModifierClient.resources
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmFournisseur.resources
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmPreAccueil.resources
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmAPropos.resources
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmProduits.resources
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmInfos.resources
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmAccueilPerso.resources
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmAjoutCompte.resources
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmConnexionPerso.resources
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmAjoutPro.resources
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmComptePro.resources
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmAccueilPro.resources
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmConnexionPro.resources
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.Properties.Resources.resources
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.csproj.GenerateResource.cache
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.csproj.CoreCompileInputs.cache
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.csproj.CopyComplete
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.exe
+C:\Users\titig\Desktop\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.pdb
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\gomezBoutique.exe.config
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\gomezBoutique.exe
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\gomezBoutique.pdb
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\GestionBD.dll
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\MySql.Data.dll
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\Google.Protobuf.dll
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\System.Memory.dll
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\System.Buffers.dll
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\GestionBD.pdb
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\GestionBD.dll.config
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\MySql.Data.xml
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\Google.Protobuf.pdb
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\Google.Protobuf.xml
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\System.Memory.xml
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\bin\Debug\System.Buffers.xml
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.csproj.AssemblyReference.cache
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmClients.resources
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmCommandes.resources
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmModifierFournisseur.resources
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmAccueil.resources
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmConnexion.resources
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmModifierClient.resources
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmFournisseur.resources
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmPreAccueil.resources
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmAPropos.resources
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmProduits.resources
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmInfos.resources
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmAccueilPerso.resources
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmAjoutCompte.resources
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmConnexionPerso.resources
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmAjoutPro.resources
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmComptePro.resources
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmAccueilPro.resources
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.FrmConnexionPro.resources
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.Properties.Resources.resources
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.csproj.GenerateResource.cache
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.csproj.CoreCompileInputs.cache
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBou.FFBC5A5F.Up2Date
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.exe
+C:\Users\tiffa\Desktop\ma boutique\Ma boutique\gomezBoutique\gomezBoutique\gomezBoutique\obj\Debug\gomezBoutique.pdb

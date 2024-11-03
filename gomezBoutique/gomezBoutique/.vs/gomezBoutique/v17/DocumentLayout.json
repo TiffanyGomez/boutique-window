@@ -1,0 +1,551 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezboutique\\personnel\\boutique\\frmproduits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|solutionrelative:gomezboutique\\personnel\\boutique\\frmproduits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|c:\\users\\tiffa\\desktop\\ma boutique\\ma boutique\\gomezboutique\\gomezboutique\\gomezboutique\\personnel\\frmaccueilperso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|solutionrelative:gomezboutique\\personnel\\frmaccueilperso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|c:\\users\\tiffa\\desktop\\ma boutique\\ma boutique\\gomezboutique\\gomezboutique\\gomezboutique\\personnel\\frmaccueilperso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|solutionrelative:gomezboutique\\personnel\\frmaccueilperso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezboutique\\frmpreaccueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|solutionrelative:gomezboutique\\frmpreaccueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345561BA-C78B-45CC-92A9-69E23C4CF9FB}|GestionBD\\GestionBD.csproj|c:\\users\\tiffa\\desktop\\ma boutique\\ma boutique\\gomezboutique\\gomezboutique\\gestionbd\\gestionboutique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{345561BA-C78B-45CC-92A9-69E23C4CF9FB}|GestionBD\\GestionBD.csproj|solutionrelative:gestionbd\\gestionboutique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345561BA-C78B-45CC-92A9-69E23C4CF9FB}|GestionBD\\GestionBD.csproj|c:\\users\\tiffa\\desktop\\ma boutique\\ma boutique\\gomezboutique\\gomezboutique\\gestionbd\\gestionfournisseur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{345561BA-C78B-45CC-92A9-69E23C4CF9FB}|GestionBD\\GestionBD.csproj|solutionrelative:gestionbd\\gestionfournisseur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345561BA-C78B-45CC-92A9-69E23C4CF9FB}|GestionBD\\GestionBD.csproj|C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gestionbd\\gestionclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{345561BA-C78B-45CC-92A9-69E23C4CF9FB}|GestionBD\\GestionBD.csproj|solutionrelative:gestionbd\\gestionclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|c:\\users\\tiffa\\desktop\\ma boutique\\ma boutique\\gomezboutique\\gomezboutique\\gomezboutique\\professionnel\\frmconnexionpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|solutionrelative:gomezboutique\\professionnel\\frmconnexionpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezboutique\\professionnel\\frmconnexionpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|solutionrelative:gomezboutique\\professionnel\\frmconnexionpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezboutique\\professionnel\\frmaccueilpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|solutionrelative:gomezboutique\\professionnel\\frmaccueilpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezboutique\\admin\\frmconnexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|solutionrelative:gomezboutique\\admin\\frmconnexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|c:\\users\\tiffa\\desktop\\ma boutique\\ma boutique\\gomezboutique\\gomezboutique\\gomezboutique\\admin\\frmaccueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|solutionrelative:gomezboutique\\admin\\frmaccueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345561BA-C78B-45CC-92A9-69E23C4CF9FB}|GestionBD\\GestionBD.csproj|c:\\users\\tiffa\\desktop\\ma boutique\\ma boutique\\gomezboutique\\gomezboutique\\gestionbd\\gestionconnexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{345561BA-C78B-45CC-92A9-69E23C4CF9FB}|GestionBD\\GestionBD.csproj|solutionrelative:gestionbd\\gestionconnexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezboutique\\admin\\clients\\frmmodifierclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|solutionrelative:gomezboutique\\admin\\clients\\frmmodifierclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezboutique\\admin\\fournisseurs\\frmmodifierfournisseur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|solutionrelative:gomezboutique\\admin\\fournisseurs\\frmmodifierfournisseur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345561BA-C78B-45CC-92A9-69E23C4CF9FB}|GestionBD\\GestionBD.csproj|C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gestionbd\\gestioncommandes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{345561BA-C78B-45CC-92A9-69E23C4CF9FB}|GestionBD\\GestionBD.csproj|solutionrelative:gestionbd\\gestioncommandes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezboutique\\admin\\clients\\frmcommandes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|solutionrelative:gomezboutique\\admin\\clients\\frmcommandes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezboutique\\personnel\\boutique\\frmproduits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|solutionrelative:gomezboutique\\personnel\\boutique\\frmproduits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345561BA-C78B-45CC-92A9-69E23C4CF9FB}|GestionBD\\GestionBD.csproj|C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gestionbd\\gestionproduits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{345561BA-C78B-45CC-92A9-69E23C4CF9FB}|GestionBD\\GestionBD.csproj|solutionrelative:gestionbd\\gestionproduits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezboutique\\personnel\\compte\\frmajoutcompte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|solutionrelative:gomezboutique\\personnel\\compte\\frmajoutcompte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezboutique\\personnel\\boutique\\frmapropos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|solutionrelative:gomezboutique\\personnel\\boutique\\frmapropos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezboutique\\admin\\frmaccueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|solutionrelative:gomezboutique\\admin\\frmaccueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezboutique\\admin\\fournisseurs\\frmfournisseur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|solutionrelative:gomezboutique\\admin\\fournisseurs\\frmfournisseur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezboutique\\admin\\clients\\frmclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|solutionrelative:gomezboutique\\admin\\clients\\frmclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezboutique\\admin\\clients\\frmmodifierclient.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|solutionrelative:gomezboutique\\admin\\clients\\frmmodifierclient.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezboutique\\admin\\clients\\frmcommandes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|solutionrelative:gomezboutique\\admin\\clients\\frmcommandes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezboutique\\personnel\\frmconnexionperso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|solutionrelative:gomezboutique\\personnel\\frmconnexionperso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezboutique\\personnel\\compte\\frmajoutcompte.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|solutionrelative:gomezboutique\\personnel\\compte\\frmajoutcompte.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezboutique\\personnel\\compte\\frminfos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|solutionrelative:gomezboutique\\personnel\\compte\\frminfos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezboutique\\personnel\\compte\\frminfos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|solutionrelative:gomezboutique\\personnel\\compte\\frminfos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezboutique\\professionnel\\compte\\frmcomptepro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|solutionrelative:gomezboutique\\professionnel\\compte\\frmcomptepro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezboutique\\professionnel\\compte\\frmcomptepro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|solutionrelative:gomezboutique\\professionnel\\compte\\frmcomptepro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezboutique\\professionnel\\compte\\frmajoutpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C832103D-FC39-4A6B-AB15-8EB4356B4498}|gomezBoutique\\gomezBoutique.csproj|solutionrelative:gomezboutique\\professionnel\\compte\\frmajoutpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmAccueilPerso.cs",
+              "DocumentMoniker": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Personnel\\FrmAccueilPerso.cs",
+              "RelativeDocumentMoniker": "gomezBoutique\\Personnel\\FrmAccueilPerso.cs",
+              "ToolTip": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Personnel\\FrmAccueilPerso.cs",
+              "RelativeToolTip": "gomezBoutique\\Personnel\\FrmAccueilPerso.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAASwCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:01:05.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmAccueilPerso.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Personnel\\FrmAccueilPerso.cs",
+              "RelativeDocumentMoniker": "gomezBoutique\\Personnel\\FrmAccueilPerso.cs",
+              "ToolTip": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Personnel\\FrmAccueilPerso.cs [Design]",
+              "RelativeToolTip": "gomezBoutique\\Personnel\\FrmAccueilPerso.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:00:53.335Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GestionBoutique.cs",
+              "DocumentMoniker": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\GestionBD\\GestionBoutique.cs",
+              "RelativeDocumentMoniker": "GestionBD\\GestionBoutique.cs",
+              "ToolTip": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\GestionBD\\GestionBoutique.cs",
+              "RelativeToolTip": "GestionBD\\GestionBoutique.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAtwCkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:59:47.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmConnexionPro.cs",
+              "DocumentMoniker": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Professionnel\\FrmConnexionPro.cs",
+              "RelativeDocumentMoniker": "gomezBoutique\\Professionnel\\FrmConnexionPro.cs",
+              "ToolTip": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Professionnel\\FrmConnexionPro.cs",
+              "RelativeToolTip": "gomezBoutique\\Professionnel\\FrmConnexionPro.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:59:37.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmConnexion.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Admin\\FrmConnexion.cs",
+              "RelativeDocumentMoniker": "gomezBoutique\\Admin\\FrmConnexion.cs",
+              "ToolTip": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Admin\\FrmConnexion.cs [Design]",
+              "RelativeToolTip": "gomezBoutique\\Admin\\FrmConnexion.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:58:06.617Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmProduits.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Personnel\\Boutique\\FrmProduits.cs",
+              "RelativeDocumentMoniker": "gomezBoutique\\Personnel\\Boutique\\FrmProduits.cs",
+              "ToolTip": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Personnel\\Boutique\\FrmProduits.cs [Design]",
+              "RelativeToolTip": "gomezBoutique\\Personnel\\Boutique\\FrmProduits.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:58:06.613Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GestionFournisseur.cs",
+              "DocumentMoniker": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\GestionBD\\GestionFournisseur.cs",
+              "RelativeDocumentMoniker": "GestionBD\\GestionFournisseur.cs",
+              "ToolTip": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\GestionBD\\GestionFournisseur.cs",
+              "RelativeToolTip": "GestionBD\\GestionFournisseur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:59:54.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmPreAccueil.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\FrmPreAccueil.cs",
+              "RelativeDocumentMoniker": "gomezBoutique\\FrmPreAccueil.cs",
+              "ToolTip": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\FrmPreAccueil.cs [Design]",
+              "RelativeToolTip": "gomezBoutique\\FrmPreAccueil.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:58:06.609Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmAccueilPro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Professionnel\\FrmAccueilPro.cs",
+              "RelativeDocumentMoniker": "gomezBoutique\\Professionnel\\FrmAccueilPro.cs",
+              "ToolTip": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Professionnel\\FrmAccueilPro.cs [Design]",
+              "RelativeToolTip": "gomezBoutique\\Professionnel\\FrmAccueilPro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:58:06.596Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmConnexionPro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Professionnel\\FrmConnexionPro.cs",
+              "RelativeDocumentMoniker": "gomezBoutique\\Professionnel\\FrmConnexionPro.cs",
+              "ToolTip": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Professionnel\\FrmConnexionPro.cs [Design]",
+              "RelativeToolTip": "gomezBoutique\\Professionnel\\FrmConnexionPro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:58:06.618Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GestionClients.cs",
+              "DocumentMoniker": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\GestionBD\\GestionClients.cs",
+              "RelativeDocumentMoniker": "GestionBD\\GestionClients.cs",
+              "ToolTip": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\GestionBD\\GestionClients.cs",
+              "RelativeToolTip": "GestionBD\\GestionClients.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:58:06.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmAccueil.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Admin\\FrmAccueil.cs",
+              "RelativeDocumentMoniker": "gomezBoutique\\Admin\\FrmAccueil.cs",
+              "ToolTip": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Admin\\FrmAccueil.cs [Design]",
+              "RelativeToolTip": "gomezBoutique\\Admin\\FrmAccueil.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:59:21.579Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GestionConnexion.cs",
+              "DocumentMoniker": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\GestionBD\\GestionConnexion.cs",
+              "RelativeDocumentMoniker": "GestionBD\\GestionConnexion.cs",
+              "ToolTip": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\GestionBD\\GestionConnexion.cs",
+              "RelativeToolTip": "GestionBD\\GestionConnexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:58:06.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmModifierFournisseur.cs",
+              "DocumentMoniker": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Admin\\Fournisseurs\\FrmModifierFournisseur.cs",
+              "RelativeDocumentMoniker": "gomezBoutique\\Admin\\Fournisseurs\\FrmModifierFournisseur.cs",
+              "ToolTip": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Admin\\Fournisseurs\\FrmModifierFournisseur.cs",
+              "RelativeToolTip": "gomezBoutique\\Admin\\Fournisseurs\\FrmModifierFournisseur.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAwwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-30T15:58:06.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmAPropos.cs",
+              "DocumentMoniker": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Personnel\\Boutique\\FrmAPropos.cs",
+              "RelativeDocumentMoniker": "gomezBoutique\\Personnel\\Boutique\\FrmAPropos.cs",
+              "ToolTip": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Personnel\\Boutique\\FrmAPropos.cs",
+              "RelativeToolTip": "gomezBoutique\\Personnel\\Boutique\\FrmAPropos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-30T15:58:06.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmCommandes.cs",
+              "DocumentMoniker": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Admin\\Clients\\FrmCommandes.cs",
+              "RelativeDocumentMoniker": "gomezBoutique\\Admin\\Clients\\FrmCommandes.cs",
+              "ToolTip": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Admin\\Clients\\FrmCommandes.cs",
+              "RelativeToolTip": "gomezBoutique\\Admin\\Clients\\FrmCommandes.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-30T15:58:06.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmModifierClient.cs",
+              "DocumentMoniker": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Admin\\Clients\\FrmModifierClient.cs",
+              "RelativeDocumentMoniker": "gomezBoutique\\Admin\\Clients\\FrmModifierClient.cs",
+              "ToolTip": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Admin\\Clients\\FrmModifierClient.cs",
+              "RelativeToolTip": "gomezBoutique\\Admin\\Clients\\FrmModifierClient.cs",
+              "ViewState": "AQIAABcAAAAAnpmZmZkCwH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-30T15:58:06.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmProduits.cs",
+              "DocumentMoniker": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Personnel\\Boutique\\FrmProduits.cs",
+              "RelativeDocumentMoniker": "gomezBoutique\\Personnel\\Boutique\\FrmProduits.cs",
+              "ToolTip": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Personnel\\Boutique\\FrmProduits.cs",
+              "RelativeToolTip": "gomezBoutique\\Personnel\\Boutique\\FrmProduits.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:58:06.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmAccueil.cs",
+              "DocumentMoniker": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Admin\\FrmAccueil.cs",
+              "RelativeDocumentMoniker": "gomezBoutique\\Admin\\FrmAccueil.cs",
+              "ToolTip": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Admin\\FrmAccueil.cs",
+              "RelativeToolTip": "gomezBoutique\\Admin\\FrmAccueil.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:58:06.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmAjoutCompte.cs",
+              "DocumentMoniker": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Personnel\\Compte\\FrmAjoutCompte.cs",
+              "RelativeDocumentMoniker": "gomezBoutique\\Personnel\\Compte\\FrmAjoutCompte.cs",
+              "ToolTip": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Personnel\\Compte\\FrmAjoutCompte.cs",
+              "RelativeToolTip": "gomezBoutique\\Personnel\\Compte\\FrmAjoutCompte.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-30T15:58:06.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GestionProduits.cs",
+              "DocumentMoniker": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\GestionBD\\GestionProduits.cs",
+              "RelativeDocumentMoniker": "GestionBD\\GestionProduits.cs",
+              "ToolTip": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\GestionBD\\GestionProduits.cs",
+              "RelativeToolTip": "GestionBD\\GestionProduits.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:58:06.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GestionCommandes.cs",
+              "DocumentMoniker": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\GestionBD\\GestionCommandes.cs",
+              "RelativeDocumentMoniker": "GestionBD\\GestionCommandes.cs",
+              "ToolTip": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\GestionBD\\GestionCommandes.cs",
+              "RelativeToolTip": "GestionBD\\GestionCommandes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:58:06.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmFournisseur.cs",
+              "DocumentMoniker": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Admin\\Fournisseurs\\FrmFournisseur.cs",
+              "RelativeDocumentMoniker": "gomezBoutique\\Admin\\Fournisseurs\\FrmFournisseur.cs",
+              "ToolTip": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Admin\\Fournisseurs\\FrmFournisseur.cs",
+              "RelativeToolTip": "gomezBoutique\\Admin\\Fournisseurs\\FrmFournisseur.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-30T15:58:06.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmClients.cs",
+              "DocumentMoniker": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Admin\\Clients\\FrmClients.cs",
+              "RelativeDocumentMoniker": "gomezBoutique\\Admin\\Clients\\FrmClients.cs",
+              "ToolTip": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Admin\\Clients\\FrmClients.cs",
+              "RelativeToolTip": "gomezBoutique\\Admin\\Clients\\FrmClients.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-30T15:58:06.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmCommandes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Admin\\Clients\\FrmCommandes.cs",
+              "RelativeDocumentMoniker": "gomezBoutique\\Admin\\Clients\\FrmCommandes.cs",
+              "ToolTip": "F:\\BTS\\Dev_ALBERT\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Admin\\Clients\\FrmCommandes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-30T15:58:06.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FrmConnexionPerso.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Personnel\\FrmConnexionPerso.cs",
+              "RelativeDocumentMoniker": "gomezBoutique\\Personnel\\FrmConnexionPerso.cs",
+              "ToolTip": "C:\\Users\\tiffany.gomez\\Desktop\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Personnel\\FrmConnexionPerso.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\tiffany.gomez\\Desktop\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Personnel\\FrmConnexionPerso.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-30T15:58:06.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FrmModifierClient.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Admin\\Clients\\FrmModifierClient.Designer.cs",
+              "RelativeDocumentMoniker": "gomezBoutique\\Admin\\Clients\\FrmModifierClient.Designer.cs",
+              "ToolTip": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Admin\\Clients\\FrmModifierClient.Designer.cs",
+              "RelativeToolTip": "gomezBoutique\\Admin\\Clients\\FrmModifierClient.Designer.cs",
+              "ViewState": "AQIAALcAAAAAAAAAAAAowL4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-10-30T15:58:06.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FrmAjoutCompte.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Personnel\\Compte\\FrmAjoutCompte.Designer.cs",
+              "RelativeDocumentMoniker": "gomezBoutique\\Personnel\\Compte\\FrmAjoutCompte.Designer.cs",
+              "ToolTip": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Personnel\\Compte\\FrmAjoutCompte.Designer.cs",
+              "RelativeToolTip": "gomezBoutique\\Personnel\\Compte\\FrmAjoutCompte.Designer.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowFwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-10-30T15:58:06.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmInfos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Personnel\\Compte\\FrmInfos.Designer.cs",
+              "RelativeDocumentMoniker": "gomezBoutique\\Personnel\\Compte\\FrmInfos.Designer.cs",
+              "ToolTip": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Personnel\\Compte\\FrmInfos.Designer.cs",
+              "RelativeToolTip": "gomezBoutique\\Personnel\\Compte\\FrmInfos.Designer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wDkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-10-30T15:58:06.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FrmInfos.cs",
+              "DocumentMoniker": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Personnel\\Compte\\FrmInfos.cs",
+              "RelativeDocumentMoniker": "gomezBoutique\\Personnel\\Compte\\FrmInfos.cs",
+              "ToolTip": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Personnel\\Compte\\FrmInfos.cs",
+              "RelativeToolTip": "gomezBoutique\\Personnel\\Compte\\FrmInfos.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwCYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-30T15:58:06.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FrmComptePro.cs",
+              "DocumentMoniker": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Professionnel\\Compte\\FrmComptePro.cs",
+              "RelativeDocumentMoniker": "gomezBoutique\\Professionnel\\Compte\\FrmComptePro.cs",
+              "ToolTip": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Professionnel\\Compte\\FrmComptePro.cs",
+              "RelativeToolTip": "gomezBoutique\\Professionnel\\Compte\\FrmComptePro.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-30T15:58:06.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FrmAjoutPro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Professionnel\\Compte\\FrmAjoutPro.cs",
+              "RelativeDocumentMoniker": "gomezBoutique\\Professionnel\\Compte\\FrmAjoutPro.cs",
+              "ToolTip": "C:\\Users\\tiffany.gomez\\Desktop\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Professionnel\\Compte\\FrmAjoutPro.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\tiffany.gomez\\Desktop\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Professionnel\\Compte\\FrmAjoutPro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-30T15:58:06.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FrmComptePro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tiffa\\Desktop\\ma boutique\\Ma boutique\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Professionnel\\Compte\\FrmComptePro.cs",
+              "RelativeDocumentMoniker": "gomezBoutique\\Professionnel\\Compte\\FrmComptePro.cs",
+              "ToolTip": "C:\\Users\\tiffany.gomez\\Desktop\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Professionnel\\Compte\\FrmComptePro.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\tiffany.gomez\\Desktop\\gomezBoutique\\gomezBoutique\\gomezBoutique\\Professionnel\\Compte\\FrmComptePro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-30T15:58:06.625Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
